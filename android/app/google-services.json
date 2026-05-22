@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "907454831489",
+    "project_id": "shams-al-kananah",
+    "storage_bucket": "shams-al-kananah.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907454831489:android:bf619717d3c1b233cea680",
+        "android_client_info": {
+          "package_name": "com.example.shams_al_kananah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBERZMkgKAWiRTDqIoQoE5J5p3NBD6URyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
